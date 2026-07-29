@@ -1,5 +1,5 @@
 /**
- * APEX ACQUISITION GROUP LLC - INTERACTIVE APPLICATION LOGIC
+ * IDYLLE FORMATION - INTERACTIVE APPLICATION LOGIC
  * Dynamic UI interactions, stat counters, modal control, & legal policy tab switching.
  */
 
